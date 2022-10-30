@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+            android:defaultValue="Player 1"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/settingsPlayer1String" android:key="editTextPlayer1"
+            android:summary="Press New Game to reflect changes"/>
+
+    <EditTextPreference
+            android:defaultValue="Player 2"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/settingsPlayer2String" android:key="editTextPlayer2"
+            android:summary="Press New Game to reflect changes"/>
+</PreferenceScreen>

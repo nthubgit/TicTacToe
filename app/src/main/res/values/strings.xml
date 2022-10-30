@@ -6,4 +6,8 @@
     <string name="newGameString">New Game</string>
     <string name="exitString">Exit</string>
     <string name="settingsString">Settings</string>
+    <string name="settingsPlayer1String">Player 1\'s Name</string>
+    <string name="settingsPlayer2String">Player 2\'s Name</string>
+    <string name="player1Name">Player 1</string>
+    <string name="player2Name">Player 2</string>
 </resources>
